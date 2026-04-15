@@ -1,8 +1,5 @@
 /// <reference types = "cypress"/>
 
-// nikinha@teste.com
-// neymar123
-
 import locaters from "../../support/locaters"
 
 const nameCount = 'Biro lilo'
