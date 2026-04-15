@@ -6,8 +6,8 @@
 import locaters from "../../support/locaters"
 
 const nameCount = 'Biro lilo'
-const userLogin = 'nikinha@teste.com'
-const userPassword = 'neymar123'
+const userLogin = 'Insira-login'
+const userPassword = 'Insira-senha'
 const nomeConta = `Conta Teste ${Date.now()}`
 const nomeMovimentacao = `Movimentação Teste ${Date.now()}`
 const nomeMovimentacaoEditado = nomeMovimentacao.substring(19)
